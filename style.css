@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: darkblue;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+p {
+    font-size: 18px;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:rgb(168, 168, 25);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button{
+    background-color: red;
+    inline-size: auto;
+    font-size: 20px;
+}
+iframe {
+    width: 100%;
+    height: 315px; 
+}
